@@ -5,7 +5,7 @@
 }
 #page{
     background-image:url(images/content-card-item-8.png);
-    height:auto;
+    height:400px;
     width: 100%;
     padding: 10px;
     position:static;
@@ -150,9 +150,31 @@
 #card{
     border-radius: 20px;
     box-shadow:6px 6px 13px #fff 6px 6px 13px rgba(0, 0, 0, .16) ;
-    padding:30px;
+    padding:20px;
 }
 .month{
     color:rgb(235, 107, 60) ;
 }
 
+
+
+
+
+
+#Group{
+    background-color: white;
+    padding:50px;
+}
+.group{
+    width: 50%;
+    float: left;
+}
+.group2{
+    padding:30px;
+}
+.group2 button{
+    background-color:rgb(235, 107, 60) ;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
